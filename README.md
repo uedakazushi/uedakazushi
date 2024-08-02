@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a mathematician with an interested in theoretical physics.
+- I am a mathematician with an interest in theoretical physics.
